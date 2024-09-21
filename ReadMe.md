@@ -15,3 +15,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 [![](https://visitcount.itsvg.in/api?id=84ankit&label=Ankit%20kumar&color=1&icon=4&pretty=false)](https://visitcount.itsvg.in)
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=84ankit&label=Ankit%20kumar&color=1&icon=4&pretty=false" />
+</a>

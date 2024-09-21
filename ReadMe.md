@@ -13,3 +13,5 @@
 [![](https://visitcount.itsvg.in/api?id=84ankit&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+[![](https://visitcount.itsvg.in/api?id=84ankit&label=Ankit%20kumar&color=1&icon=4&pretty=false)](https://visitcount.itsvg.in)

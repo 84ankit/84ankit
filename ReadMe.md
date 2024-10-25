@@ -1,3 +1,5 @@
+<img width="80%" alt="Hello, I'm Anurag. I do open source!" src="/anuraghazra/anuraghazra/raw/master/assets/gh-readme-header.png" style="max-width: 100%;">
+
 # 💫 About Me:
 Currently I am a final year student at Haldia Institute of technology.Pursuing Bachelors Degree of technology in Computer Science Engineering.<br>I am a motivated Software Developer with a growing interest in Machine Learning and a strong foundation in C++ and Python.I have a solid understanding of algorithms, data structures, and software development principles, complemented by experience in web development, cloud computing, and full-stack technologies.I am enthusiastic about applying my knowledge in Machine Learning and Software Development to real-world projects and contributing to open-source initiatives. I’m always eager to learn, collaborate, and build innovative solutions.
 
